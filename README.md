@@ -17,8 +17,8 @@ Abra o terminal e navegue até o diretório do projeto. Execute o seguinte coman
 dotnet run
 ```
 Dependências e Tecnologias Utilizadas
-.NET Core 3.1
-Entity Framework Core
+. .NET Core 3.1
+. Entity Framework Core
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
