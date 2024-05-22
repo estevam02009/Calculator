@@ -15,7 +15,7 @@ Abra o terminal e navegue até o diretório do projeto. Execute o seguinte coman
 
 ```bash
 dotnet run
-
+```
 Dependências e Tecnologias Utilizadas
 .NET Core 3.1
 Entity Framework Core
